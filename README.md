@@ -12,11 +12,12 @@ O objetivo é registrar minha evolução e consolidar os conceitos da linguagem 
 - [x] Encapsulamento e Construtores
 - [x] Arrays e Listas
 - [x] Data e Hora
-- [x] Enumeracao e Composição
-- [x] Heranca e Polimorfismo
-- [x] Tratamento de execoes
+- [x] Enumeração e Composição
+- [x] Herança e Polimorfismo
+- [x] Tratamento de exeções
 - [x] Trabalhando com arquivos
 - [x] Interfaces
+- [x] Generics, Set e Map
 
 ---
 
@@ -34,6 +35,7 @@ Java
     ├── G_TratamentoDeExecoes
     ├── H_TrabalhandoComArquivos
     ├── I_Interfaces
+    ├── J_Generics_Set_Map
 ```
 
 ---
