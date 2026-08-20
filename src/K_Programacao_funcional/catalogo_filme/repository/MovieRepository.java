@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MovieRepository {
-    Path file = Path.of(System.getProperty("user.home") + "\\Desktop\\filmes.txt");
+    Path file = Path.of(System.getProperty("user.home") ,"Documentos", "filmes.txt");
     List<Movie> movies = new ArrayList<>();
 
     public void addMovie(Movie movie) {
@@ -26,6 +26,8 @@ public class MovieRepository {
     }
 
     public List<Movie> listAll() {
+        movies.clear();
+
         try (BufferedReader br = Files.newBufferedReader(file)){
             String line;
 
