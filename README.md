@@ -18,6 +18,7 @@ O objetivo é registrar minha evolução e consolidar os conceitos da linguagem 
 - [x] Trabalhando com arquivos
 - [x] Interfaces
 - [x] Generics, Set e Map
+- [ ] Programação funcional, lambdas e streams
 
 ---
 
@@ -36,6 +37,7 @@ Java
     ├── H_TrabalhandoComArquivos
     ├── I_Interfaces
     ├── J_Generics_Set_Map
+    ├── K_Programacao_funcional
 ```
 
 ---
