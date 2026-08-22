@@ -18,7 +18,7 @@ O objetivo é registrar minha evolução e consolidar os conceitos da linguagem 
 - [x] Trabalhando com arquivos
 - [x] Interfaces
 - [x] Generics, Set e Map
-- [ ] Programação funcional, lambdas e streams
+- [x] Programação funcional, lambdas e streams
 
 ---
 
